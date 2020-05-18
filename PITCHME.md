@@ -24,7 +24,7 @@ CC BY-SA 4.0
 4. Économie de la donnée quelques exemples d'usage de Google
 
 ---
-## 1. Architecture du réseau
+### 1. Architecture du réseau
 
 ![Carte du réseau](http://www.lamerguez.com/presentations_GitPich/presentation-traces/Carte_reseau_internet_v2c.png "Schéma reprenant les différents opérateurs d'internet et comment ils sont reliés")
 
