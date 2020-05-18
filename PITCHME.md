@@ -62,8 +62,8 @@ Note:
 
 +++
 ### 2. Les informations qui circulent
-* Cookies !
-
+* Cookies !  
+  
 ![Dessin de cookies](http://www.lamerguez.com/presentations_GitPich/presentation-traces/cookie.png "dessin de cookies")
 
 +++
